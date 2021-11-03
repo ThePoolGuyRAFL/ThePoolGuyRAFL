@@ -1,0 +1,21 @@
+{
+   "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Leeds, England",
+        "social": {
+            "twitter_handle": "Hug_Pool"
+        },
+        "company": {
+            "name": "Happy HUG Staking"
+        },
+        "about": {
+            "me": "Hi, my name is Mark and I'm the pool operator of HUG. I have over 10 years’ experience working in the IT industry, my main skills are system admin and network engineering. Currently, I'm a network engineer working for one of the largest NHS trusts in the UK, which has over 25k devices connected to the network. I am also an under 10s football coach qualified to FA Level 1 :-) ",
+            "server": "Energy efficient, baremetal core and relays hosted in Leeds UK, Dual core 12Gb relays and 16Gb quad core producer node. Gigabit network connectivity, with enhanced local network security.",
+            "company": "Happy HUG Staking"
+        }
+    },
+    "my-pool-ids": {
+        "0": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb"
+    }
+}
