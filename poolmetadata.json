@@ -1,6 +1,7 @@
   {
-  "name": "Mental Health Charity Pool",
-  "description": "Maximise your ADA and stake with MIND - Dedicated infrastructure managed and secured by an IT professional - Single stake pool helping decentralise Cardano and donating 20% of pool operator rewards to mental health charities :-)",
-  "ticker": "MIND",
-  "homepage": "https://adastaking.co.uk"
+  "name": "Happy HUG Staking",
+  "description": "Maximize your ADA and stake with HUG - Dedicated infrastructure managed and secured by an IT professional - Single stake pool helping decentralize Cardano and donating 20% of pool operator rewards to mental health charities :-)",
+  "ticker": "HUG",
+  "homepage": "https://adastaking.co.uk",
+  "extended": "https://git.io/JP9XY"
   }
